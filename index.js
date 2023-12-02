@@ -5,7 +5,7 @@ import { products } from "./products";
 const app = express();
 app.use(cors());
 
-const port = process.env.PORT || 5173;
+const port = process.env.PORT || 3334;
 app.get("/", (req, res) => {
   return res.json(products);
 });
