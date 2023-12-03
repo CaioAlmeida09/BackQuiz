@@ -2,6 +2,8 @@ import cors from "cors";
 import express from "express";
 import { products } from "./products";
 
+// base url: https://back-quiz-6vhh.vercel.app/
+
 const app = express();
 app.use(cors());
 

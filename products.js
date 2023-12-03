@@ -40,10 +40,10 @@ export const products = [
       "No mapa da Europa, a Itália se destaca por parecer uma bota de cano e salto altos.",
   },
   {
-    question: "O que é mais pesado: 1 quilo de algodão ou 1 quilo de ferro?",
-    options: ["1 quilo de algodão", "1 quilo de ferro"],
-    correta:
-      "Ambos têm o mesmo peso: 1 quilo. Mas, como precisamos de uma porção de algodão maior para compor 1 quilo, temos a sensação de que o mesmo peso de algodão é mais leve do que o chumbo.",
+    question:
+      "Quem é o jogador que tem mais gols na seleção brasileira na história?",
+    options: ["Ronaldo Fenômeno", "Pele", "Romário", "Neymar", "Ronaldinho"],
+    correta: "Neymar",
   },
   {
     question: "Quem inventou a lâmpada?",
