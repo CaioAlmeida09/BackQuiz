@@ -44,6 +44,8 @@ export const products = [
       "Quem é o jogador que tem mais gols na seleção brasileira na história?",
     options: ["Ronaldo Fenômeno", "Pele", "Romário", "Neymar", "Ronaldinho"],
     correta: "Neymar",
+    explicação:
+      "Além de ser o maior artilheiro da seleção Brasileira, Neymar junior também é o jogador com mais assistências da seleção canarinha",
   },
   {
     question: "Quem inventou a lâmpada?",
